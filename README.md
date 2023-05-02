@@ -2,4 +2,4 @@
 
 Desculpe! 😔
 
-[Nosso bot 🤖](https://t.me/Advancedwallpaperbot)
+[Nosso bot do Telegram 🤖](https://t.me/Advancedwallpaperbot)

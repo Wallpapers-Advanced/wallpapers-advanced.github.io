@@ -1,5 +1,3 @@
-## Este site não é acessivel
+## Não há nada aqui! 😔
 
-Desculpe! 😔
-
-[Nosso bot do Telegram 🤖](https://t.me/Advancedwallpaperbot)
+[Nosso bot no Telegram 🤖](https://t.me/Advancedwallpaperbot)
